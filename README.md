@@ -1,1 +1,1 @@
-# repository_for_lab
+Special repository for practice works by devtools. 
