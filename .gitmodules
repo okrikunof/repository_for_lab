@@ -1,0 +1,3 @@
+[submodule "journey_un-goro"]
+	path = journey_un-goro
+	url = git@github.com:okrikunof/journey_un-goro.git
